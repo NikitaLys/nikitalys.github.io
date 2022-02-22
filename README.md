@@ -1,1 +1,2 @@
-# nikitalys.github.io
+# Blanchard
+Graduate work(basic)
