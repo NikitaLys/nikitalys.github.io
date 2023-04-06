@@ -1,2 +1,1 @@
 # Blanchard
-Graduate work(basic)
